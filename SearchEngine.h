@@ -1,5 +1,6 @@
 // PBL PROJECT - Module 2 : Search Engine
 // Hash Table for Fast Search + Trie for Keyword/Prefix Search
+#include "GalleryManager.h"
 
 #ifndef SEARCHENGINE_H
 #define SEARCHENGINE_H
