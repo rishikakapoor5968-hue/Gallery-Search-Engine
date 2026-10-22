@@ -33,7 +33,6 @@ public:
                 }
             }
         }
-        cout << "Recommendation graph built successfully!\n";
     }
 
     void recommendByTag(string tag) {
